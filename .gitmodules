@@ -1,0 +1,3 @@
+[submodule "code/aml/e2e_q_rxds/kdb-haversine"]
+	path = code/aml/e2e_q_rxds/kdb-haversine
+	url = https://github.com/davidcrossey/kdb-haversine.git
